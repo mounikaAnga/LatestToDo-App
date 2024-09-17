@@ -1,0 +1,15 @@
+.task_column_heading{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.task_column_icon {
+    width:30px;
+    margin-right: 5px;
+}
+.task_description {
+    font-size: 26px;
+    color: #555; /* Lighter color for description text */
+    margin-bottom: 15px; /* Space before the tags and actions */
+}
